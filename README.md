@@ -20,25 +20,45 @@ Among them:
 7.0 is the main earthquake magnitude
 
 3 is the number of rows in the divided grid
+
 2 is the number of divided grid columns
+
 The row coordinate of grid 1 is 1, the column coordinate is 1, and the attribute value is 1111
+
 The row coordinate of grid 2 is 1, the column coordinate is 2, and the attribute value is 1101
+
 The row coordinate of grid 3 is 2, the column coordinate is 1, and the attribute value is 1001
+
 The row coordinate of grid 4 is 2, the column coordinate is 2, and the attribute value is 1000
+
 The row coordinate of grid 5 is 3, the column coordinate is 1, and the attribute value is 0110
+
 The row coordinate of grid 6 is 3, the column coordinate is 2, and the attribute value is 1101
+
 2 is the number of fixed stations nearby
+
 The coordinates of fixed platform 1 are 1.11,1.25
+
 The coordinates of fixed platform 2 are 2.03,4.60
+
 3 is the number of mobile platforms to be deployed
+
 Grid attribute score:
+
 Bedrock: 1
+
 Noise area: 10
+
 Infeasible area: 100
+
 Fault zone: 1000
+
 The grid length is 100m * 100m
+
 Plane coordinates
+
 Spherical coordinates
+
 Row number
 
 2. file_dir refers to the local path to save the results.
