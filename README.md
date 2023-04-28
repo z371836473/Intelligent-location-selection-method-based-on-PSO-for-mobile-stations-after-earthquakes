@@ -1,4 +1,4 @@
-# Intelligent-location-selection-method-based-on-MOPSO-for-mobile-stations-after-earthquakes
+# Intelligent-location-selection-method-based-on-PSO-for-mobile-stations-after-earthquakes
 Requirements: PlatEMO 4.0
 
 The main function is site_selection.m, where two input parameters (parameter_str,file_dir) are required.
